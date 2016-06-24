@@ -1,0 +1,9 @@
+@mixin vendorPrefixer($property,$value){
+	-webkit-#{$property}:#{$value};
+	-o-#{$property}:#{$value};
+	-moz-#{$property}:#{$value};
+}
+
+.ejemplo {
+	@include vendorPrefixer("propiedad","valor");
+}
