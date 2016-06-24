@@ -1,0 +1,1 @@
+decargarse una fuente (con sus archivos .eof,.ttf,.svf y .woff) y asignársela a un párrafo. Luego,asignarle 3 animaciones distintas al párrafo mismo.

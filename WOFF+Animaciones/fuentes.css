@@ -1,0 +1,34 @@
+@font-face {
+	font-family: 'open_sansbold';
+	src: url('opensans-bold-webfont.woff2') format('woff2'),
+	 url('opensans-bold-webfont.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+.parrafo-con-estilo{
+	font-family: 'open_sansbold';
+	-webkit-animation-name: MiAnimacion; /* Chrome, Safari, Opera */
+	-webkit-animation-duration: 6s; /* Chrome, Safari, Opera */
+	animation-duration: 6s;
+	animation-iteration-count: infinite;
+	animation-name: MiAnimacion;
+	animation-direction: alternate;
+    }
+@-moz-keyframes MiAnimacion {
+	from {color:black; text-align:left; font-weight:normal;
+		
+	}
+	50% {color:brown;text-align:right; font-weight:bold;}
+	to {color:white;
+	}
+}
+@-webkit-keyframes MiAnimacion {
+	from {color:black;text-align:left; font-weight:normal;}
+	50% {color:brown;text-align:right; font-weight:bold;}
+	to {color:white;
+	}
+}
+
+
