@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>SesionStorage</title>
+</head>
+<body>
+	<script type="text/javascript">
+		if(sessionStorage.hits){
+			sessionStorage.hits = Number (sessionStorage.hits) +1;
+		}
+		else{
+			sessionStorage.hits = 1;
+		}
+		document.write ("Cantidad de veces que se ha presionado el botón de recargar sin cerrar el navegador: <br> " +sessionStorage.hits);
+	
+	</script>
+</body>
+</html>
