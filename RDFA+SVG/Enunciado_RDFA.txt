@@ -1,0 +1,1 @@
+llevar la información de la 1ra y 3ra imagen  a un archivo .html y comprobar  el resultado. Escribir una pequeña conclusión

@@ -1,0 +1,3 @@
+Realizar un grafico .svg en forma de circulo con posición (x=120 y=70) grosor de línea=4
+Color de línea y fondo a elección del estudiante.
+El tamaño del archivo svg es (600,600)
