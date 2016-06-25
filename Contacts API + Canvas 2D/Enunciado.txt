@@ -1,0 +1,7 @@
+Realizar la Autenticacion de un Contacts API con una cuenta personal de Google en HTML 5
+
+
+Crear 3 figuras:
+Con color de fondo amarillo transparente del 50%
+Con color de fondo verde claro con transparencia del 30%
+Con color de fondo anaranjado con 80% de transparencia
